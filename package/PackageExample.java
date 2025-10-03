@@ -1,4 +1,4 @@
-public class ProdukMap {
+public class PackageExample {
     public static void main(String[] args) {
         java.util.HashMap<Integer, String> produk = new java.util.HashMap<>();
 
